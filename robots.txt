@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://refinedboy-0.github.io/-/sitemap.xml
+Sitemap: https://refinedboy-0.github.io/Refinedboy/sitemap.xml
