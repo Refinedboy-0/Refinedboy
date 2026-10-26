@@ -18,14 +18,14 @@ const siteConfig = {
     { label: "Shop", href: "#shop" },
     { label: "Categories", href: "#categories" },
     { label: "Featured", href: "#featured" },
+    { label: "Guides", href: "guides/mens-skincare-routine.html" },
     { label: "About", href: "#about" },
   ],
 
   hero: {
     eyebrow: "An independent selection",
-    heading: "The best skin care products, we have everything you need.",
-    subheading:
-      "Explore a considered shortlist of skincare, body care, hair care and beauty essentials for your everyday routine.",
+    heading: "Skincare products for men, selected with care.",
+    subheading: "Compare cleansers, moisturizers, sun care and targeted treatments, then build a simple routine that suits your skin.",
     ctaLabel: "Explore the selection",
     ctaHref: "#shop",
   },
